@@ -340,7 +340,7 @@ We welcome contributions from the community! Please read our [Contributing Guide
 
 | Platform | Contact | Description |
 |----------|---------|-------------|
-| **Telegram** | [@Tru3B1iss](https://t.me/mooneagle) | Primary support channel |
+| **Telegram** | [@mooneagle](https://t.me/mooneagle) | Primary support channel |
 
 ### 🆘 Emergency Support
 
