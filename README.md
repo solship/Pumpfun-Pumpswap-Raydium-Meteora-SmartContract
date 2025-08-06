@@ -340,9 +340,7 @@ We welcome contributions from the community! Please read our [Contributing Guide
 
 | Platform | Contact | Description |
 |----------|---------|-------------|
-| **Telegram** | [@Tru3B1iss](https://t.me/Tru3B1iss) | Primary support channel |
-| **Twitter** | [@XTruebliss](https://x.com/XTruebliss) | Updates and announcements |
-| **Discord** | [@trueb1iss](https://discord.com/users/1274339638668038187) | Community discussions |
+| **Telegram** | [@Tru3B1iss](https://t.me/mooneagle) | Primary support channel |
 
 ### 🆘 Emergency Support
 
