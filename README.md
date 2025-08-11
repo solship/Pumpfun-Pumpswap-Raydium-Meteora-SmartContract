@@ -333,14 +333,14 @@ We welcome contributions from the community! Please read our [Contributing Guide
 ### 🆘 Getting Help
 
 - **Documentation**: Check our [comprehensive docs](docs/)
-- **Issues**: Report bugs via [GitHub Issues](https://github.com/Tru3Bliss/Pumpfun-Smart-Contract-All/issues)
-- **Discussions**: Join our [GitHub Discussions](https://github.com/Tru3Bliss/Pumpfun-Smart-Contract-All/discussions)
+- **Issues**: Report bugs via [GitHub Issues](https://github.com/solship/Pumpfun-Pumpswap-Raydium-Meteora-SmartContract/issues)
+- **Discussions**: Join our [GitHub Discussions](https://github.com/solship/Pumpfun-Pumpswap-Raydium-Meteora-SmartContract/discussions)
 
 ### 📞 Contact Information
 
 | Platform | Contact | Description |
 |----------|---------|-------------|
-| **Telegram** | [@mooneagle](https://t.me/mooneagle) | Primary support channel |
+| **Telegram** | [@solship](https://t.me/mooneagle) | Primary support channel |
 
 ### 🆘 Emergency Support
 
@@ -371,13 +371,3 @@ If you find this project useful, please consider:
 - **📢 Sharing** with the community
 
 ---
-
-<div align="center">
-
-**Built with ❤️ by the PumpFun Team**
-
-[![GitHub stars](https://img.shields.io/github/stars/Tru3Bliss/Pumpfun-Smart-Contract-All?style=social)](https://github.com/Tru3Bliss/Pumpfun-Smart-Contract-All/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Tru3Bliss/Pumpfun-Smart-Contract-All?style=social)](https://github.com/Tru3Bliss/Pumpfun-Smart-Contract-All/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/Tru3Bliss/Pumpfun-Smart-Contract-All)](https://github.com/Tru3Bliss/Pumpfun-Smart-Contract-All/issues)
-
-</div>  
